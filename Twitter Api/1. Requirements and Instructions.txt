@@ -1,0 +1,23 @@
+Requirements and steps:
+
+1) You will need a Twitter account if not already present.
+
+2) Goto: https://developer.twitter.com/content/developer-twitter/en.html
+and apply for a developer account. 
+
+3) Login and perform first time setups if any.
+
+4) Create a new application, fill out the required information.
+for URL, you may enter any valid URL, eg: http://www.raspberrypi.com
+
+5) Once created, goto keys/token access and make a note of consumer keys 
+and access token keys.
+
+6) Make sure you have read and write access. 
+
+7) In 'auth.py' file replace your consumer keys and access token keys.
+
+8) Read comments in the twitter.py file, and make changes accordingly for search for 
+different terms and data.
+
+
