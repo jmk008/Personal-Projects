@@ -1,0 +1,6 @@
+A sensehat, raspi app to play mp3 from raspi using sense hat.
+
+The app changes tracks and alters volume using joystick controls. New songs need to be imported and added to the scratch script.
+Allows random design creation on the sense hat during when the song is being played.
+
+Future Scope: Integrate Napster/Spotify/Google Assistant services into the player. 

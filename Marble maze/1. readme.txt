@@ -1,0 +1,3 @@
+A sense hat game to balance marble move it to its target using the Pitch and Roll properties of sensehat.
+
+Future scope: To introduce new levels (Mazes); Make movements harder; Score points 
