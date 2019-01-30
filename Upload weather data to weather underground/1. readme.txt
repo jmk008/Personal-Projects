@@ -1,0 +1,19 @@
+Uploading weather data to weather underground
+
+Need:
+1. Python3 
+Python 'requests' library
+Sense Hat packages.
+
+2. Registering with weather underground
+https://www.wunderground.com/signup
+
+3. Add a weather station
+https://www.wunderground.com/personal-weather-station/
+
+
+Execution
+1. Write python script to convert data like in 'WU-upload.py'
+
+2. The readings are taken in interval of 5 mins
+
