@@ -1,0 +1,29 @@
+Sentiment analysis using twitter
+
+Required Packages:
+1. tweepy, nltk
+- pip3 install tweepy
+- pip3 install nltk
+- In shell: 
+- 	>>>import nltk
+	>>>nltk.download()
+- Download or double click 'popular'
+to get popular parts of package
+
+Steps:
+1. Setup a twitter account
+2. Setup a twitter developer account
+3. Create an app in the developer account
+4. Store the authentication keys as a JSON,
+'twitter_auth.json'. Edit the file to enter your credentials.
+5. Follow the python script in 'naughty_and_nice.py'
+6. For analysis/execution if using IDLE, it may crash due to an Emoji
+7. To add emoji data for IDLE, use unicode. You can add more emojis from the 
+following link: https://unicode.org/emoji/charts/full-emoji-list.html
+8. Save your tweets in 'tweets.txt'
+9. Cleaning up tweets
+10. Sorting tweets (positive/negative)
+11. Pasring tweets
+12. Training a classifier
+13. Calculating naughtiness
+
