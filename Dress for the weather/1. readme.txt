@@ -1,0 +1,20 @@
+Instructions:
+
+1. Navigate to OpenWeatherMap to sign up for a free account
+
+2. Once signed in, you can see your API key on the dashboard
+
+3. The OpenWeatherMap API requires you to use a city ID to identify the different cities all around the world. 
+They provide a list of city IDs. Download the file and place it in the same directory as your code. (File already present)
+
+4. Don’t try and open the file; it’s really big, and could crash your computer.(Once unzipped)
+
+5. Wirte the python program as in 'weather.py'
+
+6. The result is quite a big dictionary and very confusing to look at.
+ Fortunately, pprint will help make more sense of the data.
+
+To execute:
+1. Execute the 'weather.py' file
+
+2. Extract the city.list.gz file before execution
